@@ -1,0 +1,15 @@
+{
+  "name": "micro-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "scf-service-stack": "^0.3.12",
+	"ejs": "^3.1.2"
+  }
+}
